@@ -8,7 +8,7 @@ import Register from "./pages/Register";
 import Home from "./pages/Home";
 
 // Documents
-import Documents from "./pages/Documents";
+import Documents from "./pages/documents";
 
 // AI
 import AIAnalyzer from "./pages/AIAnalyzer";
