@@ -28,7 +28,7 @@ import FamilyAccess from "./pages/FamilyAccess";
 import HealthTimeline from "./pages/HealthTimeline";
 
 // Achievements
-import Achievements from "./pages/Achievements";
+import Achievements from "./pages/achievements";
 
 
 function App() {
