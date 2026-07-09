@@ -1,5 +1,5 @@
 import { useState } from "react";
-
+import OpenAI from "openai";
 import { Brain, FileText, Sparkles, Copy } from "lucide-react";
 
 export default function AIAnalyzer() {
